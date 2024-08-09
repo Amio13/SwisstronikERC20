@@ -1,2 +1,2 @@
-# SwisstronikSIMPLECONTRACT
-A simple contract with swisstronik
+# Swisstronikerc20
+Minting Erc20 on swisstronik
